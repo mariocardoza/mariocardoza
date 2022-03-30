@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning something more...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to contact me 
-- email: mario.cardoza.huezo@gmail.com
+- ![image](https://user-images.githubusercontent.com/25139696/160879986-c6ab91d7-3a1c-460a-b2c9-5d997641a335.png)  mario.cardoza.huezo@gmail.com
 
 
 <!---
