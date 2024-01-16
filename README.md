@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mariocardoza)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mariocardoza&locale=es)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m Mario Cardoza
 - 👀 I’m a fullstack developer
